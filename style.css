@@ -1,7 +1,9 @@
 #main, #fact{
   text-align: center;
-  margin-top: 350px;
   font-family: 'Rajdhani', sans-serif;
+  position: absolute;
+  top: 30%;
+  left: 35%;
 }
 
 #main{
