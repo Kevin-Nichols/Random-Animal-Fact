@@ -1,9 +1,9 @@
 #main, #fact{
   text-align: center;
   font-family: 'Rajdhani', sans-serif;
-  position: absolute;
-  top: 30%;
-  left: 35%;
+  position: relative;
+  top: 10%;
+  left: 0%;
 }
 
 #main{
